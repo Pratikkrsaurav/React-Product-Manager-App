@@ -38,14 +38,14 @@ A responsive and fully functional product management dashboard built with **Reac
 
 | Home Page                             | Product Details                         | Create Product                        |
 |--------------------------------------|----------------------------------------|--------------------------------------|
-| ![home](screenshots/home.png)        | ![details](screenshots/details.png)     | ![create](screenshots/create.png)    |
+| ![home](src/assets/homepage.png)        | ![details](src/assets/Detailpage.png)     | ![create](src/assets/createpage.png)    |
 
 ---
 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/product-manager.git
+git clone https://github.com/pratikkrsaurav/product-manager.git
 cd product-manager
 npm install
 npm run dev
